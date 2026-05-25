@@ -6,7 +6,8 @@ An end-to-end data analytics project focused on identifying the key factors behi
 
 ## 📊 Dashboard Preview
 
-![Dashboard](Dashboard/bank_churn_dashboard.png)
+![Dashboard](https://github.com/deven-byte/Bank-Customer-Churn-Analysis/blob/main/Bank%20Customer%20Churn%20Analysis/Dashboard/Dashboard.png)
+
 
 ---
 
